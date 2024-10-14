@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Money Mastery UK - Unlock Financial Freedom</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Money Mastery UK</h1>
+            <p>Unlock Financial Freedom in the UK – Start Earning More Today</p>
+            <a href="#subscriptions" class="btn">Get Started</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>What We Offer</h2>
+            <p>We provide expert money-making tips, side hustles, and investment strategies tailored for young adults in the UK. With our subscription service, you can access exclusive content that helps you boost your income, build wealth, and secure your financial future.</p>
+            <a href="#subscriptions" class="btn">See Subscription Plans</a>
+        </div>
+    </section>
+
+    <section id="blog">
+        <div class="container">
+            <h2>Latest Tips & Strategies</h2>
+            <div class="blog-post">
+                <h3>Top 5 Side Hustles for Young Adults</h3>
+                <p>Explore easy and lucrative side hustles that anyone can start today.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="blog-post">
+                <h3>How to Invest Smart in the UK</h3>
+                <p>Discover simple and effective investment strategies for beginners.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Money Mastery UK | All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
